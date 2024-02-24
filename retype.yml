@@ -1,3 +1,5 @@
+start:
+  pro: true
 input: .
 output: .retype
 url: https://relicts-test-page.pages.dev # Add your website here
